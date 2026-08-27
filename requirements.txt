@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+pandas
+numpy
+requests
+folium
+streamlit-folium
+geopy
+plotly
+ultralytics
+torch
+scikit-learn
